@@ -1,0 +1,1 @@
+"C:\Program Files\R\R-3.5.2\bin\x64\R.exe" CMD BATCH --no-save --no-restore "--args 1" "E:\LTV - New Script\LTV - New Script - Prediction.R" "E:\LTV - New Script\LTV - New Script - Prediction.txt"
